@@ -1,7 +1,7 @@
 # Summerise_data
 Getting and Cleaning Data Course Project
 
-You should run this with "training" and "test" directories are inside your working directory.
+You should run this with "training" and "test" directories inside your working directory.
 
 The script works as following:
 1. Merges the training and the test sets to create one data set.
