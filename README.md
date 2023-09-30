@@ -19,3 +19,11 @@ This script generates "summerised.txt" file, which contains data specified in th
 Columns which name ends with "mean" conatin mean of the mean of the measurement for a given activity of a subject.
 
 Columns which name ends with "std" conatin mean of the standard deviation of the measurement for a given activity of a subject.
+
+
+Steps:
+-Unzipped data package
+-familiarized myself with tables
+-read and understood data rom training and test directories
+-wrote script
+-analyzed the output and concluded that everything worked correctly
